@@ -1,24 +1,22 @@
 .about-section {
     margin-top: 2rem 0px;
-    padding: 2% 0px;
+    padding: 2%;
 }
 
 .about-image-container {
-
     width: 30%;
 }
 
 .about-image-container img {
-    width: 50%;
+    width: 70%;
 }
 
 .about-description-container{
     width: 70%;
-
 }
 
 .about-description-container p {
-    margin: 4rem 0px;
+    margin: 2rem 0px;
     width: 75%;
 }
 
